@@ -1,6 +1,6 @@
 Respuesta de VISam a 1 y 15 Hz
 
-Integrantes: [Nombre 1] y [Nombre 2]
+Integrantes: Valentina Ojeda y Valentina Vasquez 
 Área cerebral: VISam
 Pregunta: ¿Una mayor proporción de neuronas de VISam responde a rejillas en movimiento de 15 Hz que de 1 Hz?
 
